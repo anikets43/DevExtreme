@@ -1,0 +1,28 @@
+.pop_left {
+    width: 100px;
+}
+
+.left {
+    width: 180px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.divider {
+    border-left: 1px solid #38546d;
+    border-right: 1px solid #16222c;
+    height: 80px;
+    position: absolute;
+    right: 249px;
+    top: 10px;
+}
+
+.right {
+    display: inline-block;
+    border-left: 1px solid #ccc;
+    padding-left: 22px;
+}
+
+.dx-template-wrapper {
+    width: 550px !important;
+}
